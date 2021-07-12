@@ -32,7 +32,6 @@ Users should be able to:
 ### Links
 
 - Live Site URL [here](https://fm-interactive-pricing-component.corentinlabroche.fr)
-
 ## My process
 
 ### Built with
