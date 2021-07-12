@@ -1,6 +1,6 @@
 {
   "name": "fm-interactive-pricing-component",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "private": true,
   "scripts": {
     "client": "vue-cli-service serve",

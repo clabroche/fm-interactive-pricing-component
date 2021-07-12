@@ -15,9 +15,9 @@
       </div>
       <div class="period-chooser-container">
         <div class="period-chooser">
-          <span>Monthly Billing</span>
-          <checkbox v-model:value="isYearly"/>
-          <span>Yearly Billing</span>
+          <label for="yearly-input">Monthly Billing</label>
+          <checkbox id="yearly-input" v-model:value="isYearly"/>
+          <label for="yearly-input">Yearly Billing</label>
         </div>
         <span class="label">25% discount</span>
       </div>
