@@ -1,24 +1,49 @@
-# fm-interactive-pricing-component
+# Frontend Mentor - Interactive pricing component solution
 
-## Project setup
-```
-npm install
-```
+This is a solution to the [Interactive pricing component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Table of contents
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [Frontend Mentor - Interactive pricing component solution](#frontend-mentor---interactive-pricing-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+  - [Author](#author)
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Use the slider and toggle to see prices for different page view numbers
+
+### Screenshot
+
+![](./screenshot.jpg)
+
+### Links
+
+- Live Site URL [here](https://fm-interactive-pricing-component.corentinlabroche.fr)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- Flexbox
+- [Vue.js 3](https://v3.vuejs.org/)
+
+## Author
+
+- Website - [Corentin Labroche](https://corentinlabroche.fr)
+- Frontend Mentor - [@clabroche](https://www.frontendmentor.io/profile/clabroche)
+- Github - [@clabroche](https://github.com/clabroche)
+- Linkedin - [Corentin Labroche](https://www.linkedin.com/in/corentin-labroche-14b785133/)
