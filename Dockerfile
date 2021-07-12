@@ -6,8 +6,6 @@ COPY package-lock.json ./package-lock.json
 COPY package.json ./package.json
 RUN npm ci
 COPY . .
-ARG VUE_APP_WEATHER_APIKEY
-ENV VUE_APP_WEATHER_APIKEY=$VUE_APP_WEATHER_APIKEY
 RUN npm run build && rm -rf node_modules && npm ci --production
 
 FROM alpine:3.11
